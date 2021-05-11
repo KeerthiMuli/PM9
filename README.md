@@ -1,9 +1,9 @@
 # PM9
-Introduction:
-Preferred name (what should we call you in class)?:Keerthi Muli
-Current degree: Persuing Masters in Applied Computer Science
-Past experience: 3.5 Yeras Experience as a Software Developer at Capgemini
-Future plans (what kind of work? what role? where?): Wanted to work as an Java full stack developer
-LinkedIn profile:https://www.linkedin.com/in/mkeerthi/
-GitHub profile: https://github.com/KeerthiMuli
-![Photo](https://github.com/KeerthiMuli/PM9/blob/main/Photo.jpg)
+<br>Introduction:
+<br>Preferred name (what should we call you in class)?:Keerthi Muli
+<br>Current degree: Persuing Masters in Applied Computer Science
+<br>Past experience: 3.5 Yeras Experience as a Software Developer at Capgemini
+<br>Future plans (what kind of work? what role? where?): Wanted to work as an Java full stack developer
+<br>LinkedIn profile:https://www.linkedin.com/in/mkeerthi/
+<br>GitHub profile: https://github.com/KeerthiMuli
+<br>![Photo](https://github.com/KeerthiMuli/PM9/blob/main/Photo.jpg)
