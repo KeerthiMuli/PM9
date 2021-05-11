@@ -6,4 +6,4 @@ Past experience: 3.5 Yeras Experience as a Software Developer at Capgemini
 Future plans (what kind of work? what role? where?): Wanted to work as an Java full stack developer
 LinkedIn profile:https://www.linkedin.com/in/mkeerthi/
 GitHub profile: https://github.com/KeerthiMuli
-Photo:
+![Photo](https://github.com/KeerthiMuli/PM9/blob/main/Photo.jpg)
